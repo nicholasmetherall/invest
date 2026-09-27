@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "2-dem-bbox",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32760" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -17.69344, 178.5405 ], [ -17.69344, -17.59307 ], [ 178.42554, -17.59307 ], [ 178.42554, 178.5405 ], [ -17.69344, 178.5405 ] ] ] } }
+]
+}
