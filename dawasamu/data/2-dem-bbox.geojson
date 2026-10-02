@@ -3,6 +3,6 @@
 "name": "2-dem-bbox",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32760" } },
 "features": [
-{ "type": "Feature", "properties": { }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -17.69344, 178.5405 ], [ -17.69344, -17.59307 ], [ 178.42554, -17.59307 ], [ 178.42554, 178.5405 ], [ -17.69344, 178.5405 ] ] ] } }
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 672375.0, 8034765.0 ], [ 672375.0, 8073915.0 ], [ 627045.0, 8073915.0 ], [ 627045.0, 8034765.0 ], [ 672375.0, 8034765.0 ] ] ] } }
 ]
 }
