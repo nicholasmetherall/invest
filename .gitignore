@@ -88,3 +88,10 @@ Sessionx.vim
 tags
 # Persistent undo
 [._]*.un~
+
+
+**/*.tif
+**/*.shp
+**/*.shx
+**/*.dbf
+**/*.prj
